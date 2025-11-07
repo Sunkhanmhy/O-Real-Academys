@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>O-Real Technologies - Leading Web and Digital Services</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+		
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-4c8668d7-11bd-4cc1-9453-2c1534b68506" data-elfsight-app-lazy></div>		
+
+
+</head>
+
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+        <a href="/index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+				 <img src="logo.png" alt="Welcome to" style="float:left";>
+ 
+            <h2 class="m-0 text-primary"><i class="img/"> &nbsp; </i>O-Real</h2>
+        </a>
+        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+		
+<div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="/index.html" class="nav-item nav-link">Home</a>
+                <a href="/about.html" class="nav-item nav-link">About</a>
+				    <div class="nav-item dropdown">
+                    	<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+                    	<div class="dropdown-menu fade-down m-0">
+                        <a href="/services.html" class="dropdown-item">Web Developmeent</a>
+                        <a href="/digital.html" class="dropdown-item">Digital Marketing</a>
+                        <a href="/related.html" class="dropdown-item">Product & Multimedia</a>
+                    </div>
+               	 </div>
+				    <div class="nav-item dropdown">
+                    	<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Career Hub</a>
+                    	<div class="dropdown-menu fade-down m-0">
+                        <a href="/career.html" class="dropdown-item">Open Positions</a>
+                        <a href="#" class="dropdown-item">Join Our Community</a>
+                        <a href="#" class="dropdown-item">Join Partners Network</a>
+                    </div>
+               	 </div>
+                <a href="/contact.html" class="nav-item nav-link">Contact</a>
+            </div>
+ 
+		
+		</div>
+    </nav>
+    <!-- Navbar End -->
+	
+
+<!-- Header Start -->
+    <div class="container-fluid bg-primary py-0 mb-3 page-header">
+        <div class="container py-5">
+            <div class="row justify-content-center">
+                <div class="col-lg-10 text-center">
+                    <h1 class="display-3 text-white animated slideInDown">Check Out</h1>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
+                            <li class="breadcrumb-item"><a class="text-white" href="#">Check Out</a></li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+
+
+
+
+<!-- Contact Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+			
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Payment Dashboard</h6>
+                <h1 class="mb-5">  </h1>
+            </div>
+			
+            <div class="row g-6">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <h5>Web Development - Enterprise Plan</h5>
+                    <p align="justify" class="mb-4">Proceeding to the payment dashboard, please review the following features and values of the highlighted product, which also includes our frequently asked questions with respect to any of our poducts and services as provided within. <a href="/contact.html">Ask More Questions</a>.</p>
+					
+
+
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 10px;
+  margin: 5px;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+	
+
+.container-A {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 10px;
+  margin: 5px;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}	
+
+
+.container-B {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 10px;
+  margin: 5px;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+	
+.active, .accordion:hover {
+  background-color: #06BBCC;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+
+.iframe-container {
+            width: 100%;
+            height: 550px;
+            background-color: #06BBCC;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            background-color: white; /* Background color inside iframe */
+            border-radius: 8px;
+        }			
+
+
+</style>
+
+<button class="accordion"><b>750 GB Web Storage (100% SSD)</b></button>
+
+<button class="accordion"><b>iOS and Android Web Application</b></button>
+
+<button class="accordion"><b>Expertise Training & Maintenance</b></button>
+
+<button class="accordion"><b>Unlimited Database Usage</b></button>
+
+<button class="accordion"><b>Approximately 15 Pages of Designs</b></button>
+
+<button class="accordion"><b>Monthly Data Backup & Maintenance</b></button>
+
+<button class="accordion"><b>Hands-on Technical Support Assistance</b></button>
+					
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>					
+			
+<div> <p>&nbsp</p>	</div>
+</div>
+
+			
+<div class="col-lg-8 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
+
+                    <h5>Product Review</h5>
+                    <p align="justify" class="mb-4">Kindly proceed with the product review by filling out this form for necessary documentation and modification before proceeding to payment option by clicking the button to continue.</p>
+
+<div class="iframe-container">
+<iframe src="https://paystack.com/pay/o-real-enterprise-plan" width="100%" height="550">
+        Your browser does not support iframes.
+
+    </iframe>	
+	
+					
+                </div>					
+					
+
+</div>
+        </div>
+        </div>
+					
+    
+    <!-- Contact End -->
+
+
+
+<!-- Contact Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+			
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Product Review</h6>
+                <h1 class="mb-5">  </h1>
+            </div>
+			
+            <div class="row g-6">
+                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <h5>Our Product Benefits</h5>
+                    <p align="justify" class="mb-4">Proceeding to our payment page, please note the following terms and conditions highlighted below, which also includes our frequently asked questions with respect to any of our poducts and services as provided within. <a href="/contact.html">Ask More Questions</a>.</p>
+					
+	
+
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 10px;
+  margin: 5px;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+	
+
+.container-A {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  margin: 5px;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}	
+	
+.active, .accordion:hover {
+  background-color: #06BBCC;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.iframe-container {
+            width: 100%;
+            height: 550px;
+            background-color: #06BBCC;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            background-color: white; /* Background color inside iframe */
+            border-radius: 8px;
+        }			
+
+</style>
+
+
+<button class="accordion"><b>Product Purchase & Installation</b></button>
+<div class="panel">
+  <p align="justify"> Mastering our administrative policy and the demands of our operation, to ensuring smooth and seamless activities on our website, we are beeseeching our customers to purchase a product/service per transaction as this will aid our smooth refund policy provided all requirements are met.</p>
+</div> 
+
+<button class="accordion"><b>247 Customer Care Support </b></button>
+<div class="panel">
+  <p align="justify"> We provide our customers with 247 supports which helps in fostering quick purchase, verification, execution and post-purchase requests. Our top-notch experts quide are tailored to meet all of your future requests with high level of professionalism.</p>
+</div>
+
+<button class="accordion"><b>Refundable & Non-Refundable Policy</b></button>
+<div class="panel">
+  <p align="justify">Our refunable and non-refundable policy strictly works with our products class or type (Products that involves third parties may forfeit relative amount of charges depending on the execution stage of the project), the executable stage (prefarably early stage) and also our transaction fee of 10%.</p>
+</div>
+
+<button class="accordion"><b>Service Upgrade, Renewal & Transfer</b></button>
+<div class="panel">
+  <p align="justify">Our services are available for upgrade, renewal and transfer provided that they are of our customers best interest. However, upgrading and trasnfering of our related services may incur other charges for maximum efficiency which our customers will consent to, while the renewal of services maintains the relative market price attached to it.</p>
+</div>
+
+<button class="accordion"><b>Payment Gateway Options & Credibility</b></button>
+<div class="panel">
+  <p align="justify">Our third payment gateway seamlessly works with multiple payment channels using Mastercard, Visa, Paypal and USDT (as the only viable cryptocurrency coins we accept). Also, effortlessly streamlined for renewal processes with maximum protection from our third party service provider.</p>
+</div>	
+
+<button class="accordion"><b>Data Privacy, Protection and Security Measures</b></button>
+<div class="panel">
+  <p align="justify">Our services are explicitly tailored to provided maximum protection of our customers data and privacy, ensuring that our system of operations do not give room leakages and unauthorized interceptions. Our products are accustomed to work well with sophisticated and secured data centers from around the globe with execellent monitoring from our experts</p>
+</div>
+
+<button class="accordion"><b>Termination of Contract or Project</b></button>
+<div class="panel">
+  <p align="justify">Provided that our client is not meeting the necessary and basic demand of our agreement within the stiputlated or allotted time frame will therefore lead to the terminiation of our contract, except there is provision for renegotiation. Also, if it occurs to us that our products are utilized in any form which is not in accordnce with the goverment policy, we will terminate such contract(s),</p>
+</div>
+					
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>					
+					
+				
+<div> <p>&nbsp</p>	</div>
+				
+                </div>
+				
+				
+                <div class="col-lg-6 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
+
+                    <h5>Product Review</h5>
+                    <p align="justify" class="mb-4">Kindly proceed with the product review by filling out this form for necessary documentation and modification before proceeding to payment option by clicking the button to continue.</p>
+   			
+                    <form action="sendmail.php" method="post"  id="contact-form">
+						
+						
+                        <div class="row g-6">
+                            <div class="col-md-12">
+                                <div class="form-floating">
+									<input type="text" class="form-control" id="fullname" name="fullname" required>
+                                     <label for="fullname">Full Name</label>
+                                   
+                                </div>
+                            </div>
+							
+							<div>							<p>&nbsp</p>	</div>
+							  <div class="col-md-12">
+                                <div class="form-floating">
+									<input type="text" class="form-control" id="resident" name="resident" required>
+                                   	<label for="resident">Resident Address</label>
+                                    
+                                </div>
+                            </div>
+							
+							<p>&nbsp</p>
+			                      <div class="col-md-12">
+                                <div class="form-floating">
+									<input type="email" class="form-control" id="email" name="email" required>
+                                    <label for="email">Recipient E-mail</label>
+                                   
+                                </div>
+                            </div>
+
+							
+							<p>&nbsp</p>
+							
+							
+                            <div class="col-12">
+                                <div class="form-floating">
+									<textarea class="form-control" name="message" id="message" style="height: 150px" required></textarea>
+                                     <label for="message">More Description</label>
+                                   
+                                </div>
+                            </div>
+							
+							
+							<p>&nbsp</p>
+							
+							
+                            <div class="col-5">
+                                <button type="submit" name="submit" class="btn btn-primary w-100 py-3" >Send Request</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+        </div>
+        </div>
+					
+			
+        </div>
+    
+</div>
+    <!-- Contact End -->
+
+		
+
+   <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container py-5">
+
+            <div class="row g-5">
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-3">Quick Link</h4>
+                    <a class="btn btn-link" href="about.html">About Us</a>
+                    <a class="btn btn-link" href="contact.html">Contact Us</a>
+                    <a class="btn btn-link" href="career.html">Career Hub</a>
+                    <a class="btn btn-link" href="services.html">Our Services</a>
+                   </div>
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-3">Contact</h4>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Akinju Complex, Ologuneru, Ibadan.</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+234-816-005-7902</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>support@o-real.com.ng</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@o-real.com.ng</p>
+					<p class="mb-2"><i class="fa fa-envelope me-3"></i>paul@o-real.com.ng</p>
+				</div>
+				
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-3">Our Partners</h4>
+                    <div class="row g-2 pt-2">
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="/img/course-1.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="/img/course-2.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="/img/course-3.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="/img/course-4.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="/img/course-5.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="/img/course-6.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+				
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-3">Newsletter</h4>
+                    <p>Sign up for our news letter to receive discounted offers.</p>
+                    <div class="position-relative mx-auto" style="max-width: 400px;">
+                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Sign Up</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="copyright">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                        &copy; 2025 O-Real Technologies - A Pauline Networks Limited Company</a>
+
+                        
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <div class="footer-menu">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+	<!-- Template Javascript -->
+    <script src="js/main.js"></script>
+	
+</body>
+
+</html>
