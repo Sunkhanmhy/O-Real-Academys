@@ -185,9 +185,6 @@
     <!-- Carousel End -->
 
 
-	
-	
-	
     <!-- Service Start -->
     <div class="container-xxl py-5">
         <div class="container">
@@ -657,7 +654,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; 2025 O-Real Technologies - A Pauline Networks Limited Company</a>
+                        &copy; <span id="current-year"></span> O-Real Technologies - A Pauline Networks Limited Company</a>
 
                         
                     </div>
@@ -681,6 +678,16 @@
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const yearSpan = document.getElementById('current-year');
+            if (yearSpan) {
+            yearSpan.textContent = new Date().getFullYear();
+            }
+        });
+    </script>
+    
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
