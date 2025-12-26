@@ -114,16 +114,6 @@
     </div>
     <!-- Header End -->
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 <!-- Contact Start -->
     <div class="container-xxl py-5">
@@ -173,13 +163,9 @@
                         </div>
 						
                     </div>
-							<div>							<p>&nbsp</p>	</div>
+							<div>	<p>&nbsp</p>	</div>
 				
                 </div>
-				
-
-				
-				
 				
 				
                 <div class="col-lg-6 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
@@ -260,10 +246,6 @@
 </div>
     <!-- Contact End -->
 
-	
-
-		
-		
 
    <!-- Footer Start -->
   <div class="container-fluid text-light footer pt-1 mt-1 wow fadeIn" data-wow-delay="0.1s">
@@ -273,8 +255,6 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63295.84452986759!2d3
 	</div>
 
    <!-- Footer Start -->
-		
-		
 		
 
    <!-- Footer Start -->
@@ -336,7 +316,7 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63295.84452986759!2d3
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; 2025 O-Real Technologies - A Pauline Networks Limited Company</a>
+                        &copy; <span id="current-year"></span> O-Real Technologies - A Pauline Networks Limited Company</a>
 
                      
                     </div>
@@ -351,7 +331,6 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63295.84452986759!2d3
     <!-- Footer End -->
 
 
-
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -359,6 +338,15 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63295.84452986759!2d3
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const yearSpan = document.getElementById('current-year');
+            if (yearSpan) {
+            yearSpan.textContent = new Date().getFullYear();
+            }
+        });
+    </script>
 
 	<!-- Template Javascript -->
     <script src="js/main.js"></script>

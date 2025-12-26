@@ -72,13 +72,6 @@
 
 <body>
 
-
-
-
-
-
-
-
     <div class="video-container">
         <video autoplay loop muted>
             <source src="img/Banner-Default.mp4" type="video/mp4">
@@ -86,11 +79,7 @@
         </video>
     </div>
 	
-	
-	
     <div class="overlay">
-	
-	
 	
                     <div class="container">
 			           <div class="owl-carousel-item position-relative">
@@ -128,9 +117,6 @@
   
   
 	</div>
-
-
-
 
 
 </body>
